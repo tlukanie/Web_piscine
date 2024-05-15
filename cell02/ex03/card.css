@@ -1,0 +1,21 @@
+table, th, tr, h1, p {
+    width: auto;
+    max-width: 600px;
+    align:center
+}
+.colored-row {
+    background-color: #86be2a;
+}
+.button {
+    background-color: #86be2a;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    align
+  }

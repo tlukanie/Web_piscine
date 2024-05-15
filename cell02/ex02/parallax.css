@@ -1,0 +1,35 @@
+body, html {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .parallax {
+    /* The image used */
+    background-image: url('../pictures/koala_forest.jpg');
+    height: 60%; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .parallax_bottom {
+    /* The image used */
+    background-image: url('../pictures/koala_b.webp');
+    height: 60%; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+#textContent
+{
+    height:1000px;
+    background-color:rgb(146, 184, 58);
+    font-size:36px
+}
